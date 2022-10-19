@@ -2,7 +2,7 @@
 10, os comandos escreval (“valor de i = ”,i) e i ← i + 10 serão executados até a 
 condição se tornar verdadeira, ou seja, até i > 50 */
 
-public class Repaticao7 {
+public class Repeticao7 {
     
     public static void main(String[] args) {
         
