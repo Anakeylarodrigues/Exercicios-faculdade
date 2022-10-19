@@ -1,3 +1,6 @@
+/*Faça um algoritmo para calcular a diferença entre dois números e 
+mostrar a mensagem de resultado POSITIVO, NEGATIVO ou ZERO */
+
 package IF_ELSE;
 
 import java.util.Scanner;
