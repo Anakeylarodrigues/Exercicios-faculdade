@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class ComParSemRet2 {
     
-    public static int salGlobal;
+    //public static int salGlobal;
 
     public static void imposto(int s) {
         int i;
@@ -26,7 +26,7 @@ public class ComParSemRet2 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         System.out.println("Digite o salário: ");
-        salGlobal = leitor.nextInt();
+        int salGlobal = leitor.nextInt();
 
         imposto(salGlobal);
         desconto(salGlobal);
