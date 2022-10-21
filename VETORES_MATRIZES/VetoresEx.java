@@ -17,7 +17,7 @@ public class VetoresEx {
         }
 
         for (i = 0; i < vet; i++) {
-            System.out.println("Conteúdo da posição " + (i+1) + " do vetor: " + vetor[i]);
+            System.out.println("Conteúdo da posição " + (i+1) + " do vetor = " + vetor[i]);
         }
     }
 }

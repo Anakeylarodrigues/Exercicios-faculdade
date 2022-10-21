@@ -1,3 +1,5 @@
+/*Faça um algoritmo para calcular a média aritmética entre duas notas */
+
 package ESTRUTURA_SEQUENCIAL;
 
 import java.util.Scanner;
